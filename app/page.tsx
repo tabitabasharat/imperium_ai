@@ -82,7 +82,6 @@ i === 2 ? "md:-ml-10" : "",
 </section>
 
 
-{/* global keyframes for pulsing glow */}
 <style jsx global>{`
 @keyframes pulseGlow {
 0% { box-shadow: 0 0 0 0 ${tokens.goldGlow}; opacity: 1; }
